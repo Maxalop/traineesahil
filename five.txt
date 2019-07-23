@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 hiii
 hllo
+=======
+
+smit here
+
+
+hi
+how
+are
+>>>>>>> 7e295cc5525e9bdb00a5d049dc45ce5947d6092b
 
